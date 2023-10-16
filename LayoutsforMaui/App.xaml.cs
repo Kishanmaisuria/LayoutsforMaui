@@ -8,7 +8,8 @@ namespace LayoutsforMaui
         {
             InitializeComponent();
 
-            MainPage = new StackLayoutD();
+            var navigationPage = new NavigationPage(new StackLayoutD());
+            MainPage = navigationPage;
         }
     }
 }

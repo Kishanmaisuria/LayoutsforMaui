@@ -6,7 +6,8 @@
     <ScrollView Orientation="Vertical">
         <StackLayout Padding="20" Spacing="10" Orientation="Vertical">
             <Label Text="Hamburger Stacker Layout" FontSize="30" FontAttributes="Bold" Margin="30"/>
-            <Button Text="DB1"/>
+            
+            <Button x:Name="SLD1" Text="Veritcal Stack Page" Clicked="SLD1_Clicked"/>
             <Button Text="DB2"/>
 
         </StackLayout>
