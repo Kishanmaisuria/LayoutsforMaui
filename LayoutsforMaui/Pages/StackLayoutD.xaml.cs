@@ -21,4 +21,9 @@ public partial class StackLayoutD : ContentPage
     {
         Navigation.PushAsync(new GridD());
     }
+
+    private void SLD4_Clicked(object sender, EventArgs e)
+    {
+        Navigation.PushAsync(new AbsoluteLayout());
+    }
 }
