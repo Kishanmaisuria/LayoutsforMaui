@@ -11,4 +11,9 @@ public partial class StackLayoutD : ContentPage
     {
 		Navigation.PushAsync(new VerticalStackLayout());
     }
+
+    private void SLD2_Clicked(object sender, EventArgs e)
+    {
+        Navigation.PushAsync(new HorizontalLayout   ());
+    }
 }

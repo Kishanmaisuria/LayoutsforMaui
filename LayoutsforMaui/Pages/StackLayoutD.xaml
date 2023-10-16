@@ -8,7 +8,7 @@
             <Label Text="Hamburger Stacker Layout" FontSize="30" FontAttributes="Bold" Margin="30"/>
             
             <Button x:Name="SLD1" Text="Veritcal Stack Page" Clicked="SLD1_Clicked"/>
-            <Button Text="DB2"/>
+            <Button x:Name="SLD2" Text="Herizontal stack Page" Clicked="SLD2_Clicked"/>
 
         </StackLayout>
     </ScrollView>
