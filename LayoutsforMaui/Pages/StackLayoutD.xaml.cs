@@ -26,4 +26,9 @@ public partial class StackLayoutD : ContentPage
     {
         Navigation.PushAsync(new AbsoluteLayout());
     }
+
+    private void SLD5_Clicked(object sender, EventArgs e)
+    {
+        Navigation.PushAsync(new FlexLayout());
+    }
 }

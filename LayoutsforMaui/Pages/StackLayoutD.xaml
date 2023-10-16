@@ -11,6 +11,8 @@
             <Button x:Name="SLD2" Text="Herizontal stack Page" Clicked="SLD2_Clicked"/>
             <Button x:Name="SLD3" Text="Grid Page" Clicked="SLD3_Clicked"/>
             <Button x:Name="SLD4" Text="Absolute Page" Clicked="SLD4_Clicked"/>
+            <Button x:Name="SLD5" Text="Flex Page" Clicked="SLD5_Clicked"/>
+
 
         </StackLayout>
     </ScrollView>

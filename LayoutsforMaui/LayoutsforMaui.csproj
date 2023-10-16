@@ -56,6 +56,9 @@
 	  <MauiXaml Update="Pages\AbsoluteLayout.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Pages\FlexLayout.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Pages\GridD.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

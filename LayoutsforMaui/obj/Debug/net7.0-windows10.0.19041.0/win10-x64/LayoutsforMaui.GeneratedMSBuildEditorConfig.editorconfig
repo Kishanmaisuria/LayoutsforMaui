@@ -22,6 +22,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = LayoutsforMaui.Pages.Absol
 build_metadata.AdditionalFiles.TargetPath = Pages\AbsoluteLayout.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\AbsoluteLayout.xaml
 
+[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/LO/LayoutsforMaui/LayoutsforMaui/Pages/FlexLayout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LayoutsforMaui.Pages.FlexLayout.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\FlexLayout.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\FlexLayout.xaml
+
 [C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/LO/LayoutsforMaui/LayoutsforMaui/Pages/GridD.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LayoutsforMaui.Pages.GridD.xaml
