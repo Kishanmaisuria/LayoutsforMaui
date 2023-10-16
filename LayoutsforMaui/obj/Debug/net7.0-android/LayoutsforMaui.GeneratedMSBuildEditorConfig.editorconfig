@@ -20,6 +20,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = LayoutsforMaui.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
+[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/LO/LayoutsforMaui/LayoutsforMaui/Pages/GridD.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LayoutsforMaui.Pages.GridD.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\GridD.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\GridD.xaml
+
 [C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/LO/LayoutsforMaui/LayoutsforMaui/Pages/HorizontalLayout.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LayoutsforMaui.Pages.HorizontalLayout.xaml

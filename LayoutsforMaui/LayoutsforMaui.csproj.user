@@ -11,6 +11,9 @@
     <MauiXaml Update="App.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Pages\GridD.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="Pages\HorizontalLayout.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

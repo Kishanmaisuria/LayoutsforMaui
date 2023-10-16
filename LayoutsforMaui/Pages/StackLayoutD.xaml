@@ -9,6 +9,7 @@
             
             <Button x:Name="SLD1" Text="Veritcal Stack Page" Clicked="SLD1_Clicked"/>
             <Button x:Name="SLD2" Text="Herizontal stack Page" Clicked="SLD2_Clicked"/>
+            <Button x:Name="SLD3" Text="Grid Page" Clicked="SLD3_Clicked"/>
 
         </StackLayout>
     </ScrollView>

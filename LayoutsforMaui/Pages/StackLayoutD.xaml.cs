@@ -14,6 +14,11 @@ public partial class StackLayoutD : ContentPage
 
     private void SLD2_Clicked(object sender, EventArgs e)
     {
-        Navigation.PushAsync(new HorizontalLayout   ());
+        Navigation.PushAsync(new HorizontalLayout());
+    }
+
+    private void SLD3_Clicked(object sender, EventArgs e)
+    {
+        Navigation.PushAsync(new GridD());
     }
 }
